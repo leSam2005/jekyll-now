@@ -1,5 +1,5 @@
 ---
-title: First blog
+title: Game Design
 layout: post
 author: sam.le
 permalink: /first-blog/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>First blog </td>
+    <td>Game Design</td>
     <td>Date</td>
-    <td>07/11/17</td>
+    <td>14/1/18</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I have made changes to css</td>
+    <td>planning</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Make my first blog</td>
+    <td>Plan game design</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Trying different ways get around the problem this it was not publishing.  </td>
+    <td>Trying different ideas for my game </td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,7 +47,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>By finding a way to publish the blog. </td>
+    <td>Come up with a game idea</td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Payed more attention.</td>
+    <td>I could have worked faster.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Listen more carefully.</td>
+    <td>Decide on a plan quicker by not changing my idea halfway through.</td>
     <td></td>
   </tr>
 </table>
