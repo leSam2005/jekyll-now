@@ -1,5 +1,5 @@
 ---
-title: Game Design
+title: Game Scratch Design
 layout: post
 author: sam.le
 permalink: /first-blog/
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Plan game design</td>
+    <td>Plan Scratch game design</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -47,7 +47,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Come up with a game idea</td>
+    <td></td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have worked faster.</td>
+    <td>I could have worked faster so i wouldn't have to do it for homework.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Decide on a plan quicker by not changing my idea halfway through.</td>
+    <td>Not get distracted.</td>
     <td></td>
   </tr>
 </table>
