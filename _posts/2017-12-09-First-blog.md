@@ -1,5 +1,5 @@
 ---
-title: Game Scratch Design
+title: Game Scratch
 layout: post
 author: sam.le
 permalink: /first-blog/
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>planning</td>
+    <td>Planning completed</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Plan Scratch game design</td>
+    <td>Make scratch game</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -39,15 +39,15 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Trying different ideas for my game </td>
+    <td>Coding the enemies</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>How can i make this better? Remove bugs(title screen).</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>Coded without help</td>
   </tr>
   <tr>
     <td>Reflecting</td>
