@@ -18,12 +18,12 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>Planning completed</td>
+    <td>Starting point</td>
+    <td>Game almost finished</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Make scratch game</td>
+    <td>Finish scratch game</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Coding the enemies</td>
+    <td>Coding the shop</td>
   </tr>
   <tr>
     <td>Questioning?</td>
