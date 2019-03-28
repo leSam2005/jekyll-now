@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Arcade game coding</td>
+    <td>Computer sience</td>
     <td>Date</td>
     <td>21/11/17</td>
   </tr>
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Published website </td>
+    <td>Fuse basic </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Code space invaders boss</td>
+    <td>Robot arm</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>no</td>
+    <td></td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Coding of the laser</td>
+    <td>Coding of the movement</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -47,7 +47,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Coding minions for homework</td>
+    <td></td>
   </tr>
   <tr>
     <td>Reflecting</td>
