@@ -1,5 +1,5 @@
 ---
-title: Game Scratch
+title: led
 layout: post
 author: sam.le
 permalink: /first-blog/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Game Design</td>
+    <td>LED lights</td>
     <td>Date</td>
-    <td>14/1/18</td>
+    <td>1/3/19</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point</td>
-    <td>Game almost finished</td>
+    <td>Fuzeboxes</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Finish scratch game</td>
+    <td>Light up an LED</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes (for homework)</td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -39,11 +39,11 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Coding the shop</td>
+    <td>placement of lights</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>How can i make this better? Remove bugs(title screen).</td>
+    <td>None</td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have worked faster so i wouldn't have to do it for homework.</td>
+    <td>I could have looked more closely at the explanation</td>
     <td></td>
   </tr>
   <tr>
